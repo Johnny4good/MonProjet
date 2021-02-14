@@ -1,3 +1,3 @@
 # MonProjet
 
-Voici une nouvelle modificatin sur fichier mes amis
+Voici une nouvelle modification sur fichier mes amis.
